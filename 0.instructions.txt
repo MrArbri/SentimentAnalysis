@@ -1,5 +1,0 @@
-Sentiment analysis for the most used emotions during pre-boarding
-Sentiment analysis for the most used emotions during onboarding
-Sentiment analysis for the most used emotions during the first day at work
-Correlation of the word trust with other words used in the interview transcripts
-Most used words throughout the entire transcript 
