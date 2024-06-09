@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read the text file
-file_path = r"3.first-day.txt"
+file_path = r"3.0-first-day.txt"
 with open(file_path, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
@@ -36,7 +36,7 @@ df.loc[df['compound'] < -0.05, 'sentiment'] = 'negative'
 print(df['sentiment'].value_counts())
 
 # Save to CSV file
-df.to_csv(r"sentiment-first-day.csv", index=False)
+df.to_csv(r"3.1-sentiment-first-day.csv", index=False)
 
 # Plot the results
 sentiment_counts = df['sentiment'].value_counts()
