@@ -17,14 +17,17 @@ I would really appreciate the fact if the company at least tried to reply to the
 "So, they were like, how are you doing? Have you been anywhere? Do you need help with something?""",0.7187,0.0,0.727,0.273,positive
 ", they were trying to take feedback from my side as well, not just me going to them when I needed help.",0.5859,0.0,0.789,0.211,positive
 "So, they tried to make me understand how the teams work, how are they collaborating with each other, what systems do we have. I mean, not in details because it's not important for my work, but at least so I understand how they work.",-0.0762,0.031,0.969,0.0,negative
+"So, it has to do more in training and things like that because in procedure-wise, it was fine. I mean, it's not that confusing or maybe where to find some materials, include some more links somewhere.",0.608,0.0,0.843,0.157,positive
 ", information is very important. So, as to be as clear as they can with documentation, with the steps that you need to take, where are you going, how are you doing this and all these things, information and transparency, of course. Well, they have to trust you as well and to show the trust that they have in you.",0.9259,0.0,0.774,0.226,positive
 "they always should keep their word. If they promise you something, they should make that expectation because otherwise, then you will be distrustful to them.",-0.2023,0.109,0.81,0.081,negative
 "Only sometimes, for example, the communication through email, maybe it continues to be done as well in German, then it made me a bit left out in this case.",0.2732,0.0,0.928,0.072,positive
 "the supervisor presented me in front of like maybe 30 or 40 employees, employees in this case, developers. So I kind of felt honored to present myself in front of them,",0.743,0.0,0.816,0.184,positive
+So that felt really good as well,0.6764,0.0,0.474,0.526,positive
 "And I had like good, good feedback about my progression towards getting to know better their products.",0.8807,0.0,0.517,0.483,positive
 "I was doing the trainings for both products simultaneously. So that was a bit overwhelmed, which I later on required, for example, to get the first training, finish that and start with the second training.",0.0516,0.0,0.963,0.037,positive
 "that first month test phase can be really, really stressful in this case because if you just don't go through it, you are basically without a job.",-0.5956,0.134,0.866,0.0,negative
 "Definitely open approach, open communication between both sides in this case, keeping it professional, however, in the meantime, like being friendly and open because a lot of emotions are mixed in this process for both sides",0.8126,0.0,0.792,0.208,positive
+I would say that it was the clear objectives that were set,0.3818,0.0,0.794,0.206,positive
 ", there was no official training in terms of what was handed over to me through seminars or an educational overview of what the company does or what kind of products the company has.",-0.296,0.064,0.936,0.0,negative
 "everything was really fast and there was no time to adopt all this information, to process all this information.",-0.128,0.105,0.813,0.081,negative
 ", it would be nice to see a little bit of the background of the company, what all products they do offer, in which areas they're covering, what kind of departments that do exist. So, it was a little bit more general to this point of view.",0.4215,0.0,0.939,0.061,positive
@@ -34,10 +37,13 @@ I would really appreciate the fact if the company at least tried to reply to the
 "the training should be a bit more organized or more structured, let's say, in a way that we should know what to expect and what will be taken over from me",0.0,0.0,1.0,0.0,neutral
 "I felt in some points that I was losing the full picture because I needed to do things on my own in order to understand this and I had to go back and ask again for the same thing. So either I didn't have the full picture or let's say it was not a good communication, the knowledge was not transferred correctly.",-0.6131,0.085,0.915,0.0,negative
 "First of all, to be clear with them, what is expected from them, why it is expected from them. So when this is good communicating and clear communicated to get the feedback in terms of are you okay with this, are you happy with this.",0.9136,0.0,0.745,0.255,positive
+"just to keep the promises or if the company cannot keep the promises, just to explain why or to try to adapt, let's say, but also give the space to the employees to develop and also work with them to get to the same expectations.",0.3818,0.0,0.923,0.077,positive
 "So, it was a mix of feelings of fear and also excitement because I was going to learn new things. And I am currently learning a lot of new things and that's what I actually like.",0.3612,0.087,0.759,0.154,positive
 "Well, the company, as I said, has this very nice strategy and the goals for the trainings. So, they have different platforms for trainings and depending on the department they have, it's specific. And they were very clear about this in the beginning.",0.7956,0.0,0.828,0.172,positive
+"but in the beginning that was not so much learning by doing more than just showing to me. So, I was hoping that it was going to be like I asked in the onboarding, in the pre-boarding, to get more into details and try to learn by doing rather than theoretically going through stuff. That was the only thing.",0.8109,0.0,0.882,0.118,positive
 "Well, actually, I talked to HR. They were very… They cared what I was going to say.",0.5994,0.0,0.726,0.274,positive
 "if you have something to say, they really listen and try to solve it for you if they can, of course, because there are some things you cannot do anything about it. But for what they have in their hands to do, they actually did it for me and listened.",0.1027,0.0,0.972,0.028,positive
+They've been very helpful and surprised. They're really nice,0.81,0.0,0.418,0.582,positive
 """I was learning too fast. So, I really felt appreciated because it was like… It's only your third day and you're doing stuff.",0.5916,0.0,0.845,0.155,positive
 "So, that really got me… I felt appreciated and I felt good. It got me motivated to even go on with other tasks.""",0.8481,0.0,0.662,0.338,positive
 "They were really good in explaining the organizational structure and everything. But in my department, I would have liked to get into more detail on what one is doing so that the other knows as well. It's like communication between the team.",0.8933,0.0,0.76,0.24,positive
@@ -45,7 +51,67 @@ I would really appreciate the fact if the company at least tried to reply to the
 "When you say certain things and you present certain things in the pre-boarding period, and the onboarding period matching those two, what you say and what you really do, it's very important for me to build trust on anyone, not just the company. If they say something different in my pre-onboarding and it turns out to be different, usually that would lose my trust.",0.8479,0.037,0.788,0.175,positive
 ", it was quite demanding from the side of my team leader, because it was like too much information at once,",0.079,0.097,0.793,0.11,positive
 "everything came at once and it was quite demanding in a way that, in a sense that quite stressful, in my opinion.",-0.699,0.243,0.757,0.0,negative
+"it was quite demanding in a sense of, you know, it's kind of stressful, I would say.",-0.699,0.308,0.692,0.0,negative
 "The thing that probably affected the trust quite badly for me, it was the amount of workload, actually.",-0.1761,0.214,0.644,0.142,negative
 "Then my trust was a bit shaky, actually, a little bit. Because all of these many things, I understand why I had to stay longer. Because as I say, that's actually the result of so much information at once.",0.34,0.051,0.86,0.089,positive
 to recalculate the workload that an employee has.,0.0,0.0,1.0,0.0,neutral
 "sometimes it's quite too much and someone can get very overwhelmed. So probably a better calculation for the workload, actually",0.5678,0.0,0.784,0.216,positive
+also some other people from people and culture team approached me and they invited me to go for a short break together and to discuss all together,0.0,0.0,1.0,0.0,neutral
+during the first three months of joining the organization despite onboarding being okay as a process in itself I was all the time questioning am I the right team,-0.2654,0.113,0.887,0.0,negative
+is a lot of things you need to learn,0.0,0.0,1.0,0.0,neutral
+I think also the cultural differences and the language barrier,-0.128,0.158,0.842,0.0,negative
+I think you could open up with it just with people in culture team and they were pretty understanding,0.4939,0.0,0.842,0.158,positive
+one-on-ones meetings with manager with project leaders where we could express different concerns and problems so that is how they tackled problems,-0.6597,0.213,0.787,0.0,negative
+it's very important for them to have given me more of a background of what's going,0.2716,0.0,0.87,0.13,positive
+people themselves needed to be more inclusive,0.0,0.0,1.0,0.0,neutral
+to take the initiative to introduce themselves to me which rarely happened,0.0,0.0,1.0,0.0,neutral
+communication clear constant and honest communication,0.7096,0.0,0.404,0.596,positive
+discussing even the tough topics with honesty and,0.4019,0.14,0.561,0.299,positive
+being able to talk about things that are not comfortable sometimes and also giving people reassurance that anything that you are going to say it's not going to impact your performance,0.2955,0.076,0.786,0.138,positive
+culture of giving feedback,0.34,0.0,0.556,0.444,positive
+you get to know everything step by step,0.0,0.0,1.0,0.0,neutral
+"they don't rush, they make it easy and they make it accessible. And to be honest, I felt very, to the team, I felt very, very welcome.",0.868,0.0,0.692,0.308,positive
+""". You have a buddy that really takes care of you at least on the first two weeks.",0.539,0.0,0.821,0.179,positive
+"And I was happy""",0.5719,0.0,0.351,0.649,positive
+"I had two people, two buddies",0.0,0.0,1.0,0.0,neutral
+"One buddy that was like specifically meeting me or presenting me the people, key people whom I should know and with whom I will have to work",0.3612,0.0,0.906,0.094,positive
+another buddy was there to cherish me and give me all insight of the company on the best way possible,0.7783,0.0,0.726,0.274,positive
+"Last two weeks, I was getting to know people, learning about all the rules and code of conduct for the company, doing some exams, trainings and stuff. So it was two weeks, like fully letting me on my own and getting to know some people",0.3612,0.0,0.945,0.055,positive
+they gave me the time that I need and they let it be that two weeks I get to know things and I get to get my know-how.,0.0,0.0,1.0,0.0,neutral
+"Believe me, after the first week, I said to my family and friends and to myself first that, oh, I feel that now I found my place.",0.4767,0.0,0.881,0.119,positive
+"I think taking care, definitely",0.7096,0.0,0.253,0.747,positive
+"Communication is another one and letting to know the person, the employee, their rights and also their position in a way, how valuable they are in the company. This is what we really like and we feel amazing when we have it or when we hear it.",0.8655,0.0,0.816,0.184,positive
+I felt it that I'm not just a number. I felt it like really they treat me like a human,0.7754,0.058,0.566,0.376,positive
+"Yes, yes, I think so. Some days, for example, I didn't have anything to do and my mentor was having his own tasks, so I guess he couldn't give me something to do and I felt a bit bored and was like, okay, is this going to be my job? So, I have nothing to do, just mindlessly clicking around and not doing anything.",0.7717,0.032,0.817,0.151,positive
+"I was a little pissed off because I'm there to get our experience and not there to just sit around and not do anything. And yeah, I felt concerned about my goals, I guess.",-0.4033,0.115,0.821,0.065,negative
+"""We have weekly meetings with my team lead, so she always asks me how is it going, do you have any suggestions, is everything okay? Do you want to work on a particular topic?",0.3736,0.0,0.897,0.103,positive
+"Yeah, I think this is very helpful.""",0.296,0.0,0.694,0.306,positive
+", I would suggest clarity in what exactly the employee will be doing.",0.4019,0.0,0.787,0.213,positive
+", I feel like sometimes HRs want to hide some things from the employee. And this just leaves gaps, so to say, in an employee's mind, and that does not contribute to trust.",-0.1536,0.125,0.767,0.108,negative
+I think that everything should be communicated clearly.,0.4019,0.0,0.69,0.31,positive
+Probably involving the employee in company activities.,0.0,0.0,1.0,0.0,neutral
+"and I started working there after a couple of days. In my opinion, this was a very rushed decision because it didn't give me much time to prepare the moving to Tyrol and for other organizational issues.",0.0,0.0,1.0,0.0,neutral
+"I got a welcome from the HR manager. She introduced me to all the departments and colleagues one by one. I was handed in my work equipment such as laptop, mouse, headset and all the username and passwords for my login accounts.",0.4588,0.0,0.927,0.073,positive
+"taking a lot of information at once since the first day was very overwhelming. This made me feel even more insecure if I could do this job. They put me straight to the tasks without explaining first the processes, the company's products and services, the company's clients and so on.",-0.2944,0.061,0.902,0.037,negative
+"I found myself the first day jumping in cold water, dealing and listening to other colleagues' meetings without understanding first what were they doing.",0.0,0.0,1.0,0.0,neutral
+"I was sitting there listening for 4 hours, taking notes, but no one had the time to explain if I had the question because they were in phone calls speaking with the customers.",-0.4215,0.088,0.912,0.0,negative
+I would have to wait with my questions until someone was free to answer because they were busy most of the time on phone calls,0.5106,0.0,0.875,0.125,positive
+", what I found very unexpected was the fast moving procedures and the company's rush to make me ready to start working independently as soon as possible.",0.3612,0.0,0.906,0.094,positive
+I was feeling insecure but I decided to give myself time.,-0.1655,0.187,0.69,0.123,negative
+"The team leader didn't like my answer and started judging me and telling why don't you remember that. This is very basic, you should know this and so on. Actually this made me feel very bad and not supported at all.",-0.7824,0.171,0.829,0.0,negative
+priorities were not set clear at the beginning. And the proper training was missing.,-0.5242,0.268,0.732,0.0,negative
+Every time I had something or a problem they were there with a solution. The problems were mainly technical or organized.,-0.4767,0.238,0.661,0.101,negative
+The HR manager came every day to my desk asking if everything is going okay and if I needed something. The team leader as well. They tried to show me that they care and I found that particularly nice of them.,0.8516,0.0,0.773,0.227,positive
+During onboarding I would very much like to have a buddy to explain me the tasks in detail to go through the processes with me. Every day I had another colleague taking care of me.,0.7165,0.0,0.834,0.166,positive
+", if I had questions, I would very often have to wait until they were free to have an answer.",0.5106,0.0,0.829,0.171,positive
+", the training part could definitely be better organized.",0.6808,0.0,0.517,0.483,positive
+"Secondly, the documentation of the processes was not clear at all. I didn't have a buddy, at least I should have had something to read and learn from it.",-0.2924,0.08,0.92,0.0,negative
+"Furthermore, the feedback part is very important. I didn't receive that either. I wanted to know how I was going.",0.2716,0.0,0.884,0.116,positive
+I was totally insecure about how things were going and I didn't receive it.,-0.4754,0.219,0.781,0.0,negative
+"Unfortunately, I have to admit that I did the right choice to leave the company",-0.2023,0.234,0.649,0.117,negative
+the training part for new employees could be better.,0.4404,0.0,0.734,0.266,positive
+The feedback is important,0.2023,0.0,0.625,0.375,positive
+the documentation of the processes as an instruction book would also be very helpful.,0.4754,0.0,0.808,0.192,positive
+"First, being honest with the employee and explaining everything clearly since the very beginning so that the employee knows what to expect.",0.7184,0.0,0.769,0.231,positive
+"Second, not trying to sell the company as the best company. And then step by step you realize that they are not what they looked like.",0.7717,0.0,0.782,0.218,positive
+the company must be very professional with hiring. This would show employees that the company is serious and as a consequence also a company someone can trust.,0.4588,0.047,0.833,0.12,positive

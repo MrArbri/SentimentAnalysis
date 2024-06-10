@@ -1,4 +1,5 @@
 text,compound,negative,neutral,positive,sentiment
+TargetText,0.0,0.0,1.0,0.0,neutral
 "And I was also in close touch with the HR, the CTO and the CEO. So after I was accepted, I received an email from each department. So yeah, I would say the HR department and the CTO and CEO.",0.5936,0.0,0.875,0.125,positive
 "They were quite responsive, really fast, I would say. And there were instructions, obviously. I was sent a contract, an agreement, everything was signed.",0.7178,0.0,0.76,0.24,positive
 "So in this instance, I would say that it was really organized. So it was a positive experience to me. I also didn't have to wait for a long time for each email.",0.5945,0.0,0.879,0.121,positive
@@ -6,12 +7,14 @@ text,compound,negative,neutral,positive,sentiment
 "in the beginning, I wasn't really clear, but I didn't want to ask any questions to them regarding this, because I think that getting things done in the technical aspect is more important.",0.1546,0.093,0.826,0.081,positive
 "when I told the current company that I also had received an offer from another company, they really seemed to be pushing more. So I also had an in-person interview where I saw that, okay, the CEO was really trying to convince me and join the company.",0.6557,0.0,0.863,0.137,positive
 I was also told that the company has a lot of benefits and then I was listed all of them.,0.3818,0.0,0.86,0.14,positive
+was 10 days,0.0,0.0,1.0,0.0,neutral
 "they contacted me directly with my offer. They sent me the contract. I had to sign it and send it back. No need for hard copies or things like that, just by email or scanning, things like that. They had a list of documents I had to provide and that took a couple of weeks to take care because depending on the laws and how the documentation can be provided by school or by the national institutions and things like that.",0.7964,0.042,0.832,0.125,positive
 then they sent me some more information regarding housing because we also have a relocation package that helps a lot money-wise,0.3818,0.0,0.874,0.126,positive
 information about E-card and I think for metal centre as well,0.2732,0.0,0.811,0.189,positive
 it was some kind of good information and a guide of what is expected of you when you come here.,0.3832,0.0,0.873,0.127,positive
 "was very responsive and with whatever questions that I had, she was very quick to respond.",0.4201,0.0,0.834,0.166,positive
 "I felt like secure in a way. So, I was safe to have like to be more, how can I say it, not safe, but just like secure and that I'll find everything and I'll like have everything in place in a way.",0.943,0.0,0.613,0.387,positive
+because I got information since the first days regarding documentation and contracts and things like that.,0.3612,0.0,0.848,0.152,positive
 "I would have liked to be a little bit earlier because it was like, where do I go, what do I do, who I contact and things like that.",0.7783,0.0,0.729,0.271,positive
 the communication I had with HR and later then with my manager was making me feel easier.,0.4215,0.0,0.843,0.157,positive
 there's also more careful communication with each other.,0.2247,0.0,0.787,0.213,positive
@@ -21,9 +24,12 @@ there's also more careful communication with each other.,0.2247,0.0,0.787,0.213,
 They were very transparent with me,0.0,0.0,1.0,0.0,neutral
 "So, they had clear information, they had clear procedures, they had people to take care of you, so it was what you would expect from an international company. Nothing out of the ordinary, but also not bad.",0.8289,0.0,0.772,0.228,positive
 "Well, the only information that I had from the pre-boarding was that I would have a buddy, like a person that would take care of my onboarding. So I didn't know what to expect in a way.",0.7783,0.0,0.782,0.218,positive
+it took approximately one month since the application and getting like the green light from the migration agency in this case.,0.3612,0.0,0.889,0.111,positive
 ", in the meantime, I was, I would say, daily in contact with my current director in this case",0.0,0.0,1.0,0.0,neutral
 "And I always was getting updates regarding my status in this case for the visa, for the onboarding in this case, which is like creating the needed accounts and if I needed some support.",0.7506,0.0,0.797,0.203,positive
 "What I didn't get that others, as I heard, are getting is the relocation package,",0.0,0.0,1.0,0.0,neutral
+"""What I didn't get that others, as I heard, are getting is the relocation package, in this case, help for finding an apartment, housing or anything like that during the onboarding time, pre-boarding time actually.",0.6369,0.0,0.856,0.144,positive
+"So, that was a bit distressful. """,-0.4939,0.444,0.556,0.0,negative
 "they were very professional, but in the meantime, very friendly, because everything was, like I didn't have to do any bureaucracy or anything like that.",0.905,0.0,0.651,0.349,positive
 "But mainly emails and also phone calls. We were doing a lot of phone calls, directly cell phone calls.",0.0,0.0,1.0,0.0,neutral
 "Just getting in constant touch, constantly in communicating with me, caring about the needs in this case, and if I have any further requirements",0.4939,0.0,0.873,0.127,positive
@@ -45,10 +51,14 @@ I received an email with all the information after I got the offer.,0.0,0.0,1.0,
 "So, I believe that actually helped me to understand that they know for what they are employing""",0.0,0.0,1.0,0.0,neutral
 Everything was a good communication. Everything was in a friendly environment.,0.7269,0.0,0.534,0.466,positive
 "First of all, to be clear with them, what is expected from them, why it is expected from them. So when this is good communicating and clear communicated to get the feedback in terms of are you okay with this, are you happy with this.",0.9136,0.0,0.745,0.255,positive
+", just to keep the promises or if the company cannot keep the promises, just to explain why or to try to adapt, let's say, but also give the space to the employees to develop and also work with them to get to the same expectations.",0.3818,0.0,0.923,0.077,positive
 "they have called me, they emailed me and everything was also in verbal and also in writing. So, they were very effective from this part.",0.5256,0.0,0.876,0.124,positive
 "And I really felt like it was a very serious company. And for me, I felt good and very, let's say, I felt like I could trust the people and the people that were talking to me and calling me. In this case, it was HR department, different colleagues now.",0.8797,0.03,0.75,0.22,positive
 "And they were very helpful. In the pre-onboarding, they would call me because I had a need to apply for a new red-white-red card, a new visa. And so, they were very willing to help me with that.",0.7233,0.0,0.841,0.159,positive
 "it was very helpful and always being there if I had any questions or anything. Also, of course, they helped me with some presentations and they sent me some more materials and information regarding the company",0.4754,0.0,0.917,0.083,positive
+I only spoke with them via phone and emails.,0.0,0.0,1.0,0.0,neutral
+"sending also the PowerPoint presentations and other materials that I needed. So, it was very helpful.",0.4754,0.0,0.819,0.181,positive
+"Of course, they first notified me via a phone call and then they would send me the materials. So, it was very effective.",0.5256,0.0,0.861,0.139,positive
 """There were some related to the company from the way that how they do business. And of course, also the ecological part that they are very complying with the environmental needs and everything.",0.0,0.0,1.0,0.0,neutral
 "So, that part sparked my attention. And it was something that I really appreciated the companies. And I look at when they care about the environment.""",0.7778,0.0,0.764,0.236,positive
 "And always, if you need anything, just call us. And we will help you with any document that you need. So, that really was like, let's say, a good start for me.",0.8115,0.0,0.77,0.23,positive
@@ -57,6 +67,9 @@ Everything was a good communication. Everything was in a friendly environment.,0
 """And not being organized, being late with the replies, with the phone calls. That made me feel a little bit like I was very, let's say, not so.",0.3008,0.0,0.918,0.082,positive
 "I have my doubts for the company, for the previous one. Which I didn't have for the company I'm currently working. Because, as I said, they did every step right.""",-0.296,0.078,0.922,0.0,negative
 "I'm thinking now that in my previous job, usually some people did not care how I felt.",-0.3875,0.149,0.851,0.0,negative
+"Yes. For information, I got a job through an outsourcing agent. So I applied the job through this third party.",0.6597,0.0,0.735,0.265,positive
+"my outsourcing agent informed me that there was a company that is interested in me. And then I said, yes, okay. And then I did the interview.",0.743,0.0,0.742,0.258,positive
+The process took also more or less one week or so,0.0,0.0,1.0,0.0,neutral
 I came to the office pretty much to meet my new team leader.,0.4939,0.0,0.775,0.225,positive
 "he only showed me around, like where is what and what is what.",0.3612,0.0,0.828,0.172,positive
 "If I have like the access for anything or everything that I need for the work, like all the softwares or programs that I need for the work.",0.6124,0.0,0.821,0.179,positive
@@ -75,4 +88,45 @@ I would say they were pretty supportive for me and they would always respond any
 ", I was in frequent communication via email with the HR person, with the person that actually did the interviews with me and followed up on everything",0.0,0.0,1.0,0.0,neutral
 "he invited me to go to the office, to the premises and I could actually see and touch a little bit where the place was and what it looked like, to meet some people there and let them know that I would be the new employee",0.3612,0.0,0.944,0.056,positive
 just communicate a bit more,0.0,0.0,1.0,0.0,neutral
+"Because sometimes during this trouble that I explained, the situation, I would need to write to them first what is going on and then they would instantly reply but I would really like for them to just tell me beforehand without needing to write them before",0.3873,0.044,0.877,0.079,positive
 it's important that in the end they would just reply to my emails to make me feel sure that things are going okay and we're going on the right direction together,0.6124,0.0,0.824,0.176,positive
+is communication clear constant and honest communication,0.7096,0.0,0.459,0.541,positive
+discussing even the tough topics with honesty and,0.4019,0.14,0.561,0.299,positive
+being able to talk about things that are not comfortable sometimes and also giving people reassurance that anything that you are going to say it's not going to impact your performance,0.2955,0.076,0.786,0.138,positive
+"Well, to be honest, I feel very lucky because I've been dealing with people that they were very, very considerable.",0.8173,0.0,0.653,0.347,positive
+During these three months,0.0,0.0,1.0,0.0,neutral
+"we were every second week or every third week of the month we were in communication, either by email or by phone, checking on each other. Mainly, they were the ones that they were checking on me if everything is fine, if we have everything.",0.2023,0.0,0.961,0.039,positive
+I felt taken care. I felt that they really want me. That's why they waited for so long.,0.5849,0.0,0.745,0.255,positive
+we are here for you. Don't stress yourself. And that was like something that it was wow.,0.824,0.0,0.619,0.381,positive
+"You are not just one plus number there, but you are a person, you are a human and they really do take into consideration this.",0.0387,0.0,0.95,0.05,neutral
+they are very internationalized. And that's why I felt that I would be also very well welcomed the very first day that I go. That's why it happened also.,0.6214,0.0,0.826,0.174,positive
+", this feeling welcomed, even though I was not part of the company. They called me like one month before. They called me to have a team meeting and have lunch with them just to get to know the team.",0.6597,0.0,0.842,0.158,positive
+"So this was another motivation that, OK, things are really going well and they are really thinking in a human way, not just an extra number of doing some work there. This is what for me is very important",0.8444,0.0,0.748,0.252,positive
+"And in this day, I was there for one day whole, completely one day. And they took me in all the meetings that they were present during that day. So I was in the loop of all what was happening with the old project that I am dealing.",0.0,0.0,1.0,0.0,neutral
+"you want to know more what the company can offer, but they most of the time, they don't show everything what they have, but you get it and you learn it as soon as you get inside.",0.0387,0.0,0.969,0.031,neutral
+", I expected to, because I'm used to stuff that you are just put it into the water and then cold water and you swim. This is how all other jobs they were. Here, it was a bit different because they gave me, so since only this week, I started to be really onto the work of the things that I have to.",0.0,0.0,1.0,0.0,neutral
+"I think taking care, definitely.",0.7096,0.0,0.253,0.747,positive
+"Communication is another one and letting to know the person, the employee, their rights and also their position in a way, how valuable they are in the company. This is what we really like and we feel amazing when we have it or when we hear it.",0.8655,0.0,0.816,0.184,positive
+pre-boarding for me was just two weeks,0.0,0.0,1.0,0.0,neutral
+They sent me the contract and I had a period to review it and to ask questions.,0.0,0.0,1.0,0.0,neutral
+"So, I called the HR employee and I asked her the questions I had. She did tell me the answers and everything was fine with me, with her answers. And yeah, that was actually everything that happened",0.4588,0.0,0.889,0.111,positive
+I asked my questions per email and I expected to get an email back with the answer,0.0,0.0,1.0,0.0,neutral
+"probably per email, if it was written, I could have a little bit more time to reflect on what she said to me and remember what exactly she said to me.",0.0,0.0,1.0,0.0,neutral
+So I had two days actually that I spent in the company and I saw how all the employees greet each other.,0.3182,0.0,0.887,0.113,positive
+"So everybody was very cheerful and nice and funny. So it wasn't a very like stiff environment. I don't know how to say it, but it was open, kind and friendly",0.9276,0.042,0.576,0.383,positive
+And I felt like I would like to work in that company with such people.,0.6124,0.0,0.688,0.312,positive
+"They could have given me a more clear description of what my tasks will be, because it was pretty vague. I didn't know what exactly I will be doing. Just an overview.",0.6901,0.042,0.776,0.182,positive
+my team lead came and the HR too. So they greeted me and they were all friendly like an old friend that you haven't seen for a while.,0.8828,0.0,0.671,0.329,positive
+I felt good that they reserved a place for me. And it was next to my mentor. I have a mentor as well in the onboarding phase.,0.6124,0.0,0.808,0.192,positive
+"So yeah, he was there the whole day and he showed me around, told me the most important stuff. I met a lot of new people there. So he was actually meeting me with everybody else.",0.5553,0.0,0.875,0.125,positive
+", I feel like sometimes HRs want to hide some things from the employee. And this just leaves gaps, so to say, in an employee's mind, and that does not contribute to trust.",-0.1536,0.125,0.767,0.108,negative
+I think that everything should be communicated clearly,0.4019,0.0,0.69,0.31,positive
+it was just a couple of days in between.,0.0,0.0,1.0,0.0,neutral
+the HR manager with whom I was in contact since the day of my interview was very friendly. She let me know immediately the other steps of the employment procedure including the payment contract.,0.5413,0.0,0.902,0.098,positive
+"the HR was very communicative, answering all my questions pretty fast. Most of the communication was through mails and phone calls.",0.4939,0.0,0.862,0.138,positive
+"the company would offer me an apartment to stay and a car to use to go to work. These benefits made me feel valued and already part of the company, even though I had not yet started. They made me believe they wanted me as a long-time employee.",0.6705,0.0,0.887,0.113,positive
+"The HR manager was very kind to explain me all these benefits. Also, she was very fast to reply whenever I wrote her a message and asked questions.",0.7425,0.0,0.792,0.208,positive
+"I created the idea that the company was very kind to their employees, very professional and they valued employees' requests and opinions. This fact made me create trust on the company and decide to choose them as my future employer. I also had another opportunity with another company, but I decided to go with them due to reasons I already mentioned.",0.8124,0.0,0.817,0.183,positive
+", I must admit, the company during the pre-boarding phase did a very good job to convince me to choose them.",0.7178,0.0,0.682,0.318,positive
+"I felt enthusiastic and very happy to start due to their dedication to me as an employee. As I understood, at that point they were a company with a flat hierarchy where the voice of the employees was heard and valued. The general feedback up to that point was very positive.",0.9323,0.0,0.755,0.245,positive
+"I felt happy to start not only because I was very enthusiastic for starting my new career but also because I felt I had made the right decision for choosing this company. I felt the company was like I wanted it to be, very helpful, employee-driven and with a lot of opportunities I could take advantage of.",0.9508,0.0,0.706,0.294,positive
