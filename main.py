@@ -36,18 +36,36 @@ df.loc[df['compound'] < -0.05, 'sentiment'] = 'negative'
 print(df['sentiment'].value_counts())
 
 # Save to CSV file
-df.to_csv(r"3.1-sentiment-first-day.csv", index=False)
+# df.to_csv(r"3.1-sentiment-first-day.csv", index=False)
+
+# Count sentiments
+sentiment_counts = df['sentiment'].value_counts()
+
+# Ensure all categories are present
+categories = ['positive', 'neutral', 'negative']
+counts = [sentiment_counts.get(category, 0) for category in categories]
+
+# Replace categories with emojis
+emoji_categories = ['😊', '😐', '🙁']
 
 # Plot the results
-sentiment_counts = df['sentiment'].value_counts()
-ax = sentiment_counts.plot(kind='bar', color=['green', 'red', 'blue'])
+fig, ax = plt.subplots()
 
-# Add text labels
-for i in range(len(sentiment_counts)):
-    ax.text(i, sentiment_counts[i] + 1, str(sentiment_counts[i]), ha='center')
+# Add bars
+bars = ax.bar(emoji_categories, counts, color=['green', 'blue', 'red'])
 
-plt.title('Sentiment Analysis')
-plt.xlabel('Sentiment')
-plt.ylabel('Number of Texts')
+# Add text labels above the bars
+for bar in bars:
+    height = bar.get_height()
+    ax.text(bar.get_x() + bar.get_width() / 2.0, height, str(height), ha='center', va='bottom', fontweight='bold')
+
+# Set fixed y-axis limit to 100
+ax.set_ylim(0, 100)
+
+# Add title and labels
+plt.title('First day at work', fontweight='bold')
+plt.xlabel('Emotions', fontweight='bold')
+plt.ylabel('Number of Words', fontweight='bold')
 plt.xticks(rotation=0)
+
 plt.show()
