@@ -36,7 +36,7 @@ df.loc[df['compound'] < -0.05, 'sentiment'] = 'negative'
 print(df['sentiment'].value_counts())
 
 # Save to CSV file
-# df.to_csv(r"3.1-sentiment-first-day.csv", index=False)
+df.to_csv(r"3.1-sentiment-first-day.csv", index=False)
 
 # Count sentiments
 sentiment_counts = df['sentiment'].value_counts()
@@ -45,14 +45,11 @@ sentiment_counts = df['sentiment'].value_counts()
 categories = ['positive', 'neutral', 'negative']
 counts = [sentiment_counts.get(category, 0) for category in categories]
 
-# Replace categories with emojis
-emoji_categories = ['😊', '😐', '🙁']
-
 # Plot the results
 fig, ax = plt.subplots()
 
 # Add bars
-bars = ax.bar(emoji_categories, counts, color=['green', 'blue', 'red'])
+bars = ax.bar(categories, counts, color=['green', 'blue', 'red'])
 
 # Add text labels above the bars
 for bar in bars:
