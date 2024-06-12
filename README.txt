@@ -1,24 +1,23 @@
-<h1 align="center">Sentiment Analysis Using Python</h1>
+Sentiment Analysis Using Python
 
 
-<p>This code is designed for sentiment analysis using Python.</p>
-<p>You can analyze any text you want.</p>
-<p>In this example, we are analyzing transcribed interviews.</p>
+This code is designed for sentiment analysis using Python. You can analyze any text you want.
+In this example, we are analyzing transcribed interviews.
 
-<h3>Prerequisites</h3>
-<p>To use this code, you must have Python installed on your computer, along with the following libraries:</p>
+Prerequisites
+To use this code, you must have Python installed on your computer, along with the following libraries:
 
   • nltk
   • pandas
   • matplotlib
 
-<p>Installation instructions for these libraries can be found at the top of the code.</p>
+Installation instructions for these libraries can be found at the top of the code.
 
-<h3>Instructions</h3>
-<p>Follow these steps to analyze your text and achieve the same results as in the example:</p>
+Instructions
+Follow these steps to analyze your text and achieve the same results as in the example:
 
 
-<h5>Step 1: Select the Text File</h5>
+Step 1: Select the Text File
 
   1. Open main.py.
 
@@ -32,7 +31,7 @@
   Repeat this process for onboarding or any other file you want to analyze.
 
 
-<h5>Step 2: Save Results to CSV (Optional)</h5>
+Step 2: Save Results to CSV (Optional)
 
   1. Locate the section:
 
@@ -49,7 +48,7 @@
   # df.to_csv(r"3.1-sentiment-first-day.csv", index=False)
 
 
-<h5>Step 3: Update the Graph Title</h5>
+Step 3: Update the Graph Title
 
   1. Locate the section at the bottom of the code:
 
