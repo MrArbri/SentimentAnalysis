@@ -8,7 +8,7 @@ Trust	92
 Stressed	80
 Process	77
 Happy	70
-Organized	57
+Organised	57
 Emotions	44
 Right	42
 Nice	36
@@ -169,7 +169,7 @@ Accurate	1
 Matter	1
 Throughout	1
 Hurt	1
-Criticize	1
+Criticise	1
 Laughing	1
 Reaction	1
 Fulfilling	1
@@ -185,3 +185,5 @@ Insurance	1
 Honestly	1
 Frightening	1
 Fluctuating	1
+
+For word cloud is used https://wordart.com/
