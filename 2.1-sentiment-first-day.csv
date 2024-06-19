@@ -1,5 +1,4 @@
 text,compound,negative,neutral,positive,sentiment
-TargetText,0.0,0.0,1.0,0.0,neutral
 "I would say that I was very confident since the first day I wasn't anxious, unlike my first, uh, experiences with other companies.",0.6408,0.0,0.775,0.225,positive
 "I was able to be in touch with the team, most specifically with the CEO and the CTO.",0.0,0.0,1.0,0.0,neutral
 "I was introduced to the team, even though the company is a little bit small, the office and most of the employees are remote.",0.0,0.0,1.0,0.0,neutral
