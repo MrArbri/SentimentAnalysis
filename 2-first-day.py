@@ -60,7 +60,7 @@ for bar in bars:
 ax.set_ylim(0, 100)
 
 # Add title and labels
-plt.title('First day', fontweight='bold')
+plt.title('First day at work', fontweight='bold')
 plt.xlabel('Emotions', fontweight='bold')
 plt.ylabel('Number of Words', fontweight='bold')
 plt.xticks(rotation=0)
